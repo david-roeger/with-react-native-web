@@ -1,6 +1,8 @@
 import * as React from 'react'
 import Head from 'next/head'
 
+import './app.css';
+
 function MyApp({ Component, pageProps }) {
   return (
     <>
